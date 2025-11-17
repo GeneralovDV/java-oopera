@@ -1,0 +1,47 @@
+{
+  "version" : 1,
+  "files" : {
+    "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml:1-1",
+      "title" : "yaml:name",
+      "content" : "Java Tests",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml",
+      "startLine" : 1,
+      "endLine" : 1,
+      "symbolFqn" : null,
+      "tags" : [ "yaml:name", "yaml", "config" ],
+      "lastEditMillis" : 1763110997142
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml:3-4",
+      "title" : "yaml:on",
+      "content" : "pull_request:",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml",
+      "startLine" : 3,
+      "endLine" : 4,
+      "symbolFqn" : null,
+      "tags" : [ "yaml:on", "yaml", "config" ],
+      "lastEditMillis" : 1763110997142
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml:6-7",
+      "title" : "yaml:jobs",
+      "content" : "build: uses: yandex-praktikum/java-oopera/.github/workflows/api-tests.yml@ci",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml",
+      "startLine" : 6,
+      "endLine" : 7,
+      "symbolFqn" : null,
+      "tags" : [ "yaml", "config", "yaml:jobs" ],
+      "lastEditMillis" : 1763110997142
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/README.md" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/README.md:1-2",
+      "title" : "java-oopera",
+      "content" : "Repository for homework project.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/README.md",
+      "startLine" : 1,
+      "endLine" : 2,
+      "symbolFqn" : null,
+      "tags" : [ "doc", "markdown" ],
+      "lastEditMillis" : 1763110997144
+    } ]
+  }
+}

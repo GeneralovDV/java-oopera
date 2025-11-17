@@ -10,10 +10,6 @@ public class Director extends Person {
         this.numberOfShows = numberOfShows;
     }
 
-    public int getNumberOfShows() {
-        return numberOfShows;
-    }
-
     @Override
     public String toString() {
         return "Режиссер {" +

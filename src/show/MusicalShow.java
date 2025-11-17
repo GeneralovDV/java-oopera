@@ -16,7 +16,7 @@ public class MusicalShow extends Show {
     }
 
     public void printLibretto() {
-        System.out.println(toString());
+        System.out.println(this);
     }
 
     @Override

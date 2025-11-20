@@ -1,6 +1,109 @@
 {
   "version" : 1,
   "files" : {
+    "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java:1-8",
+      "title" : "Hamster",
+      "content" : "Класс Hamster.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java",
+      "startLine" : 1,
+      "endLine" : 8,
+      "symbolFqn" : "Hamster",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536772187
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java:2-4",
+      "title" : "Hamster#Hamster",
+      "content" : "Метод Hamster (()).",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java",
+      "startLine" : 2,
+      "endLine" : 4,
+      "symbolFqn" : "Hamster#Hamster",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536772187
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java:5-7",
+      "title" : "Hamster#hideFood",
+      "content" : "Метод hideFood (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Hamster#hideFood",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536772187
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java:INV:5",
+      "title" : "Ключевые вызовы: hideFood()",
+      "content" : "- `java.io.PrintStream#println(String)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Hamster.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Hamster#hideFood()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763536772187
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java:1-8",
+      "title" : "Cat",
+      "content" : "Класс Cat.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java",
+      "startLine" : 1,
+      "endLine" : 8,
+      "symbolFqn" : "Cat",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536724425
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java:2-4",
+      "title" : "Cat#Cat",
+      "content" : "Метод Cat (()).",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java",
+      "startLine" : 2,
+      "endLine" : 4,
+      "symbolFqn" : "Cat#Cat",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536724425
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java:5-7",
+      "title" : "Cat#catchMouse",
+      "content" : "Метод catchMouse (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Cat#catchMouse",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536724425
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java:INV:5",
+      "title" : "Ключевые вызовы: catchMouse()",
+      "content" : "- `java.io.PrintStream#println(String)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Cat.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Cat#catchMouse()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763536724425
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Spider.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Spider.java:1-5",
+      "title" : "Spider",
+      "content" : "Класс Spider.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Spider.java",
+      "startLine" : 1,
+      "endLine" : 5,
+      "symbolFqn" : "Spider",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536872911
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Spider.java:2-4",
+      "title" : "Spider#Spider",
+      "content" : "Метод Spider (()).",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Spider.java",
+      "startLine" : 2,
+      "endLine" : 4,
+      "symbolFqn" : "Spider#Spider",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536872911
+    } ],
     "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml" : [ {
       "id" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/.github/workflows/api-tests.yml:1-1",
       "title" : "yaml:name",
@@ -29,8 +132,634 @@
       "startLine" : 6,
       "endLine" : 7,
       "symbolFqn" : null,
-      "tags" : [ "yaml", "config", "yaml:jobs" ],
+      "tags" : [ "yaml:jobs", "yaml", "config" ],
       "lastEditMillis" : 1763110997142
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:12-110",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator",
+      "content" : "Класс TestDataGenerator.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 12,
+      "endLine" : 110,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:15-17",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#email",
+      "content" : "Метод email (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 15,
+      "endLine" : 17,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#email",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:19-21",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#fullName",
+      "content" : "Метод fullName (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 19,
+      "endLine" : 21,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#fullName",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:23-25",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#name",
+      "content" : "Метод name ((int length)). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 23,
+      "endLine" : 25,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#name",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:27-33",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generatePhones",
+      "content" : "Метод generatePhones ((int amount)). Возвращает List<String>.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 27,
+      "endLine" : 33,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generatePhones",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:INV:27",
+      "title" : "Ключевые вызовы: generatePhones(int)",
+      "content" : "- `java.util.List#add(E)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 27,
+      "endLine" : 33,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generatePhones(int)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:35-37",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generatePhones",
+      "content" : "Метод generatePhones (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 35,
+      "endLine" : 37,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generatePhones",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:39-41",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#address",
+      "content" : "Метод address (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 39,
+      "endLine" : 41,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#address",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:43-45",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#numberAsString",
+      "content" : "Метод numberAsString ((int length)). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 43,
+      "endLine" : 45,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#numberAsString",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:47-49",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#number",
+      "content" : "Метод number ((int length)). Возвращает int.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 47,
+      "endLine" : 49,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#number",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:51-53",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#date",
+      "content" : "Метод date (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 51,
+      "endLine" : 53,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#date",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:INV:51",
+      "title" : "Ключевые вызовы: date()",
+      "content" : "- `java.time.LocalDate#now()`\n\n- `java.time.format.DateTimeFormatter#ofPattern(String)`\n\n- `java.time.LocalDate#format(DateTimeFormatter)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 51,
+      "endLine" : 53,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#date()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:55-57",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#timezone",
+      "content" : "Метод timezone (()). Возвращает Integer.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 55,
+      "endLine" : 57,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#timezone",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:59-72",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Atol",
+      "content" : "Метод generateEan13Atol (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 59,
+      "endLine" : 72,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Atol",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:INV:59",
+      "title" : "Ключевые вызовы: generateEan13Atol()",
+      "content" : "- `java.lang.StringBuilder#append(String)`\n\n- `java.lang.StringBuilder#append(char)`\n\n- `java.lang.StringBuilder#toString()`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 59,
+      "endLine" : 72,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Atol()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:74-97",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Orange",
+      "content" : "Метод generateEan13Orange (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 74,
+      "endLine" : 97,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Orange",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:99-109",
+      "title" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Cloud",
+      "content" : "Метод generateEan13Cloud (()). Возвращает String.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 99,
+      "endLine" : 109,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Cloud",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622570034
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java:INV:99",
+      "title" : "Ключевые вызовы: generateEan13Cloud()",
+      "content" : "- `java.lang.StringBuilder#append(String)`\n\n- `java.lang.StringBuilder#toString()`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/utils/TestDataGenerator.java",
+      "startLine" : 99,
+      "endLine" : 109,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.utils.TestDataGenerator#generateEan13Cloud()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622570034
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java:18-102",
+      "title" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests",
+      "content" : "Класс GetReceiptTests.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java",
+      "startLine" : 18,
+      "endLine" : 102,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413084
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java:20-41",
+      "title" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getOperationReceipts",
+      "content" : "Метод getOperationReceipts (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java",
+      "startLine" : 20,
+      "endLine" : 41,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getOperationReceipts",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413084
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java:43-55",
+      "title" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getReceiptById",
+      "content" : "Метод getReceiptById (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java",
+      "startLine" : 43,
+      "endLine" : 55,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getReceiptById",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413084
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java:57-70",
+      "title" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getReceiptByIdAndOperationId",
+      "content" : "Метод getReceiptByIdAndOperationId (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java",
+      "startLine" : 57,
+      "endLine" : 70,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getReceiptByIdAndOperationId",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413084
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java:72-88",
+      "title" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getCorrectionReceipt",
+      "content" : "Метод getCorrectionReceipt (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java",
+      "startLine" : 72,
+      "endLine" : 88,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getCorrectionReceipt",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413084
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java:90-101",
+      "title" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getReceiptsUnauthorized",
+      "content" : "Метод getReceiptsUnauthorized (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/GetReceiptTests.java",
+      "startLine" : 90,
+      "endLine" : 101,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.GetReceiptTests#getReceiptsUnauthorized",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413084
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Practicum.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Practicum.java:1-2",
+      "title" : "Practicum",
+      "content" : "Класс Practicum.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Practicum.java",
+      "startLine" : 1,
+      "endLine" : 2,
+      "symbolFqn" : "Practicum",
+      "tags" : [ ],
+      "lastEditMillis" : 1763533589738
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/target/classes/run.properties" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/target/classes/run.properties:2-2",
+      "title" : "prop:environment",
+      "content" : "pre",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/target/classes/run.properties",
+      "startLine" : 2,
+      "endLine" : 2,
+      "symbolFqn" : null,
+      "tags" : [ "prop:environment", "properties", "config" ],
+      "lastEditMillis" : 1763537748548
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:49-286",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder",
+      "content" : "Класс ReceiptBuilder.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 49,
+      "endLine" : 286,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:51-57",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildBaseReceiptRequest12",
+      "content" : "Метод buildBaseReceiptRequest12 ((Integer cashboxId)). Возвращает CreateReceiptRequest.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 51,
+      "endLine" : 57,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildBaseReceiptRequest12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:51",
+      "title" : "Ключевые вызовы: buildBaseReceiptRequest12(Integer)",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildBaseReceiptRequest105(Integer)`\n```\n{\n        return CreateReceiptRequest.builder()\n                .cashboxId(cashboxId)\n                .operationId(number(999999999))\n                .idempotenceId(numberAsString(36))\n                .receipt(Receipt.builder()\n                        .receiptType(ReceiptType.INCOME)\n                        .orderId(numberAsString(64))\n                        .items(Collections.singletonList(Items.builder()\n                                .name(name(128))\n                                .price(1000)\n                                .quantity(new BigDecimal(\"12345.123\"))\n…\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 51,
+      "endLine" : 57,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildBaseReceiptRequest12(Integer)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:59-81",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildBaseReceiptRequest105",
+      "content" : "Метод buildBaseReceiptRequest105 ((Integer cashboxId)). Возвращает CreateReceiptRequest.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 59,
+      "endLine" : 81,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildBaseReceiptRequest105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:59",
+      "title" : "Ключевые вызовы: buildBaseReceiptRequest105(Integer)",
+      "content" : "- `java.util.Collections#singletonList(T)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 59,
+      "endLine" : 81,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildBaseReceiptRequest105(Integer)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:83-92",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceiptRequest12",
+      "content" : "Метод buildFullReceiptRequest12 ((Integer cashboxId)). Возвращает CreateReceiptRequest.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 83,
+      "endLine" : 92,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceiptRequest12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:83",
+      "title" : "Ключевые вызовы: buildFullReceiptRequest12(Integer)",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullBcsRestapiData()`\n```\n{\n        return BcsRestapiData.builder()\n                .sessionLogId(number(999999999))\n                .requestType(RequestType.IN)\n                .subMerchantId(String.valueOf(number(999999999)))\n                .receiptAmount(number(999999999))\n                .receiptAmountOriginal(number(999999999))\n                .build();\n    }\n```\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt12()`\n```\n{\n        return Receipt.builder()\n                .receiptType(ReceiptType.INCOME)\n                .orderId(numberAsString(64))\n                .items(Collections.singletonList(buildFullItem12()))\n                .clientInfo(buildFullClientInfo())\n                .emailCompany(email())\n                .taxation(Taxation.OSN)\n                .source(String.valueOf(Source.MC))\n                .maskPan(numberAsString(4))\n                .cashierName(fullName())\n                .payments(Payments.builder()\n…\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 83,
+      "endLine" : 92,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceiptRequest12(Integer)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:94-107",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullCorrectionReceiptRequest12",
+      "content" : "Метод buildFullCorrectionReceiptRequest12 ((Integer cashboxId)). Возвращает CreateReceiptRequest.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 94,
+      "endLine" : 107,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullCorrectionReceiptRequest12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:94",
+      "title" : "Ключевые вызовы: buildFullCorrectionReceiptRequest12(Integer)",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullBcsRestapiData()`\n```\n{\n        return BcsRestapiData.builder()\n                .sessionLogId(number(999999999))\n                .requestType(RequestType.IN)\n                .subMerchantId(String.valueOf(number(999999999)))\n                .receiptAmount(number(999999999))\n                .receiptAmountOriginal(number(999999999))\n                .build();\n    }\n```\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt12()`\n```\n{\n        return Receipt.builder()\n                .receiptType(ReceiptType.INCOME)\n                .orderId(numberAsString(64))\n                .items(Collections.singletonList(buildFullItem12()))\n                .clientInfo(buildFullClientInfo())\n                .emailCompany(email())\n                .taxation(Taxation.OSN)\n                .source(String.valueOf(Source.MC))\n                .maskPan(numberAsString(4))\n                .cashierName(fullName())\n                .payments(Payments.builder()\n…\n```\n- `java.time.LocalDate#now()`\n\n- `java.time.format.DateTimeFormatter#ofPattern(String)`\n\n- `java.time.LocalDate#format(DateTimeFormatter)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 94,
+      "endLine" : 107,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullCorrectionReceiptRequest12(Integer)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:109-134",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt12",
+      "content" : "Метод buildFullReceipt12 (()). Возвращает Receipt.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 109,
+      "endLine" : 134,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:109",
+      "title" : "Ключевые вызовы: buildFullReceipt12()",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem12()`\n```\n{\n        return Items.builder()\n                .name(name(128))\n                .price(1000)\n                .quantity(new BigDecimal(\"1\"))\n                .amount(1000)\n                .tax(Tax.VAT20)\n                .paymentMethod(PaymentMethod.FULL_PREPAYMENT)\n                .paymentObject(PaymentObject.GOODS_WITH_MARKING_CODE)\n                .measurementUnit(MeasurementUnit.PIECES)\n                .agentData(buildFullAgentData())\n                .supplierInfo(new SupplierInfo(generatePhones(1), name(200), numberAsString(12)))\n…\n```\n- `java.util.Collections#singletonList(T)`\n\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullClientInfo()`\n```\n{\n        return ClientInfo.builder()\n                .email(email())\n                .phone(generatePhones())\n                .customer(numberAsString(243))\n                .customerInn(numberAsString(12))\n                .birthdate(date())\n                .citizenship(numberAsString(3))\n                .documentCode(DocumentCode.CODE_21)\n                .documentData(numberAsString(62))\n                .address(address())\n                .build();\n…\n```\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralCheckProps()`\n```\n{\n        return SectoralCheckProps.builder()\n                .federalId(\"035\")\n                .date(LocalDate.now().format(DateTimeFormatter.ofPattern(\"dd.MM.yyyy\")))\n                .number(numberAsString(32))\n                .value(numberAsString(256))\n                .build();\n    }\n```\n- `java.time.LocalDateTime#now()`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 109,
+      "endLine" : 134,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt12()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:136-158",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem12",
+      "content" : "Метод buildFullItem12 (()). Возвращает Items.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 136,
+      "endLine" : 158,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:136",
+      "title" : "Ключевые вызовы: buildFullItem12()",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullAgentData()`\n```\n{\n        return AgentData.builder()\n                .agentSign(AgentSign.BANK_PAYING_AGENT.getValue())\n                .operationName(name(24))\n                .phones(generatePhones(2))\n                .receiverPhones(generatePhones(1))\n                .transferPhones(generatePhones(3))\n                .operatorName(name(64))\n                .operatorAddress(address())\n                .operatorInn(numberAsString(12))\n                .build();\n    }\n```\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralItemProps()`\n```\n{\n        return SectoralItemProps.builder()\n                .federalId(\"072\")\n                .date(LocalDate.now().format(DateTimeFormatter.ofPattern(\"dd.MM.yyyy\")))\n                .number(numberAsString(32))\n                .value(numberAsString(256))\n                .build();\n    }\n```\n- `java.util.Collections#singletonList(T)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 136,
+      "endLine" : 158,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem12()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:160-170",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceiptRequest105",
+      "content" : "Метод buildFullReceiptRequest105 ((Integer cashboxId)). Возвращает CreateReceiptRequest.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 160,
+      "endLine" : 170,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceiptRequest105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:160",
+      "title" : "Ключевые вызовы: buildFullReceiptRequest105(Integer)",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullBcsRestapiData()`\n```\n{\n        return BcsRestapiData.builder()\n                .sessionLogId(number(999999999))\n                .requestType(RequestType.IN)\n                .subMerchantId(String.valueOf(number(999999999)))\n                .receiptAmount(number(999999999))\n                .receiptAmountOriginal(number(999999999))\n                .build();\n    }\n```\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt105()`\n```\n{\n        return Receipt.builder()\n                .receiptType(ReceiptType.EXPENSE)\n                .orderId(numberAsString(64))\n                .items(Collections.singletonList(buildFullItem105()))\n                .clientInfo(buildFullClientInfo105())\n                .emailCompany(email())\n                .taxation(Taxation.OSN)\n                .source(String.valueOf(Source.MC))\n                .maskPan(numberAsString(4))\n                .cashierName(fullName())\n                .agentData(buildFullAgentData())\n…\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 160,
+      "endLine" : 170,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceiptRequest105(Integer)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:172-194",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt105",
+      "content" : "Метод buildFullReceipt105 (()). Возвращает Receipt.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 172,
+      "endLine" : 194,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:172",
+      "title" : "Ключевые вызовы: buildFullReceipt105()",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem105()`\n```\n{\n        return Items.builder()\n                .name(name(128))\n                .price(1000)\n                .quantity(new BigDecimal(\"12345.12\"))\n                .amount(12345123)\n                .tax(Tax.VAT10)\n                .paymentMethod(PaymentMethod.FULL_PAYMENT)\n                .paymentObject(PaymentObject.COMMODITY)\n                .measurementUnit(MeasurementUnit.ANOTHER)\n                .ean13(numberAsString(50))\n                .agentData(buildFullAgentData())\n…\n```\n- `java.util.Collections#singletonList(T)`\n\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullClientInfo105()`\n```\n{\n        return ClientInfo.builder()\n                .email(email())\n                .phone(generatePhones())\n                .customer(numberAsString(243))\n                .customerInn(numberAsString(12))\n                .build();\n    }\n```\n- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullAgentData()`\n```\n{\n        return AgentData.builder()\n                .agentSign(AgentSign.BANK_PAYING_AGENT.getValue())\n                .operationName(name(24))\n                .phones(generatePhones(2))\n                .receiverPhones(generatePhones(1))\n                .transferPhones(generatePhones(3))\n                .operatorName(name(64))\n                .operatorAddress(address())\n                .operatorInn(numberAsString(12))\n                .build();\n    }\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 172,
+      "endLine" : 194,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullReceipt105()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:196-210",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem105",
+      "content" : "Метод buildFullItem105 (()). Возвращает Items.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 196,
+      "endLine" : 210,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:196",
+      "title" : "Ключевые вызовы: buildFullItem105()",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullAgentData()`\n```\n{\n        return AgentData.builder()\n                .agentSign(AgentSign.BANK_PAYING_AGENT.getValue())\n                .operationName(name(24))\n                .phones(generatePhones(2))\n                .receiverPhones(generatePhones(1))\n                .transferPhones(generatePhones(3))\n                .operatorName(name(64))\n                .operatorAddress(address())\n                .operatorInn(numberAsString(12))\n                .build();\n    }\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 196,
+      "endLine" : 210,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullItem105()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:212-219",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullClientInfo105",
+      "content" : "Метод buildFullClientInfo105 (()). Возвращает ClientInfo.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 212,
+      "endLine" : 219,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullClientInfo105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:221-232",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullAgentData",
+      "content" : "Метод buildFullAgentData (()). Возвращает AgentData.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 221,
+      "endLine" : 232,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullAgentData",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:234-241",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralCheckProps",
+      "content" : "Метод buildFullSectoralCheckProps (()). Возвращает SectoralCheckProps.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 234,
+      "endLine" : 241,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralCheckProps",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:234",
+      "title" : "Ключевые вызовы: buildFullSectoralCheckProps()",
+      "content" : "- `java.time.LocalDate#now()`\n\n- `java.time.format.DateTimeFormatter#ofPattern(String)`\n\n- `java.time.LocalDate#format(DateTimeFormatter)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 234,
+      "endLine" : 241,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralCheckProps()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:243-250",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralItemProps",
+      "content" : "Метод buildFullSectoralItemProps (()). Возвращает SectoralItemProps.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 243,
+      "endLine" : 250,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralItemProps",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:INV:243",
+      "title" : "Ключевые вызовы: buildFullSectoralItemProps()",
+      "content" : "- `java.time.LocalDate#now()`\n\n- `java.time.format.DateTimeFormatter#ofPattern(String)`\n\n- `java.time.LocalDate#format(DateTimeFormatter)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 243,
+      "endLine" : 250,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullSectoralItemProps()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:252-264",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullClientInfo",
+      "content" : "Метод buildFullClientInfo (()). Возвращает ClientInfo.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 252,
+      "endLine" : 264,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullClientInfo",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:266-274",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullBcsRestapiData",
+      "content" : "Метод buildFullBcsRestapiData (()). Возвращает BcsRestapiData.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 266,
+      "endLine" : 274,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#buildFullBcsRestapiData",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java:276-285",
+      "title" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#choosingEan13byCashboxType",
+      "content" : "Метод choosingEan13byCashboxType ((CashboxType cashboxType, CreateReceiptRequest request)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/builder/ReceiptBuilder.java",
+      "startLine" : 276,
+      "endLine" : 285,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.builder.ReceiptBuilder#choosingEan13byCashboxType",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622636385
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:22-151",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew",
+      "content" : "Класс CreateReceiptNew. Аннотации: @IntegrationLayer.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 22,
+      "endLine" : 151,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:26-42",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulBaseCreateReceipt105",
+      "content" : "Метод successfulBaseCreateReceipt105 ((CashboxType cashboxType)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 26,
+      "endLine" : 42,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulBaseCreateReceipt105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:44-62",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulFullCreateReceipt105",
+      "content" : "Метод successfulFullCreateReceipt105 ((CashboxType cashboxType)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 44,
+      "endLine" : 62,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulFullCreateReceipt105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:64-80",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulBaseCreateReceipt12",
+      "content" : "Метод successfulBaseCreateReceipt12 ((CashboxType cashboxType)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 64,
+      "endLine" : 80,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulBaseCreateReceipt12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:82-100",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulFullCreateReceipt12WithRawCode",
+      "content" : "Метод successfulFullCreateReceipt12WithRawCode ((CashboxType cashboxType)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 82,
+      "endLine" : 100,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulFullCreateReceipt12WithRawCode",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:102-120",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulFullCreateReceipt12",
+      "content" : "Метод successfulFullCreateReceipt12 ((CashboxType cashboxType)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 102,
+      "endLine" : 120,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#successfulFullCreateReceipt12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:122-140",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#nonUniqueReceipt",
+      "content" : "Метод nonUniqueReceipt ((CashboxType cashboxType)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 122,
+      "endLine" : 140,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#nonUniqueReceipt",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java:142-150",
+      "title" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#createReceiptUnauthorized",
+      "content" : "Метод createReceiptUnauthorized (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/test/java/ru/tinkoff/qa/fp/receipt/CreateReceiptNew.java",
+      "startLine" : 142,
+      "endLine" : 150,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.CreateReceiptNew#createReceiptUnauthorized",
+      "tags" : [ ],
+      "lastEditMillis" : 1763622413082
     } ],
     "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/README.md" : [ {
       "id" : "/Users/d.v.generalov/IdeaProjects/Practicum/java-oopera/README.md:1-2",
@@ -42,6 +771,474 @@
       "symbolFqn" : null,
       "tags" : [ "doc", "markdown" ],
       "lastEditMillis" : 1763110997144
+    } ],
+    "/Users/d.v.generalov/eacq-fp-receipt-service-perf/.gradle/8.7/gc.properties" : [ ],
+    "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:1-19",
+      "title" : "Pet",
+      "content" : "Класс Pet.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 1,
+      "endLine" : 19,
+      "symbolFqn" : "Pet",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536591696
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:5-7",
+      "title" : "Pet#Pet",
+      "content" : "Метод Pet ((String voice)).",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Pet#Pet",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536591696
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:INV:5",
+      "title" : "Ключевые вызовы: Pet(String)",
+      "content" : "- `Pet#giveVoice()`\n```\n{\n    }\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Pet#Pet(String)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763536591696
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:9-11",
+      "title" : "Pet#sleep",
+      "content" : "Метод sleep (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 9,
+      "endLine" : 11,
+      "symbolFqn" : "Pet#sleep",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536591696
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:INV:9",
+      "title" : "Ключевые вызовы: sleep()",
+      "content" : "- `java.io.PrintStream#println(String)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 9,
+      "endLine" : 11,
+      "symbolFqn" : "Pet#sleep()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763536591696
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:13-15",
+      "title" : "Pet#play",
+      "content" : "Метод play (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 13,
+      "endLine" : 15,
+      "symbolFqn" : "Pet#play",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536591696
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:INV:13",
+      "title" : "Ключевые вызовы: play()",
+      "content" : "- `java.io.PrintStream#println(String)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 13,
+      "endLine" : 15,
+      "symbolFqn" : "Pet#play()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763536591696
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java:17-18",
+      "title" : "Pet#giveVoice",
+      "content" : "Метод giveVoice (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Pet.java",
+      "startLine" : 17,
+      "endLine" : 18,
+      "symbolFqn" : "Pet#giveVoice",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536591696
+    } ],
+    "/Users/d.v.generalov/eacq-fp-receipt-service-perf/.gradle/vcs-1/gc.properties" : [ ],
+    "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java:1-8",
+      "title" : "Dog",
+      "content" : "Класс Dog.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java",
+      "startLine" : 1,
+      "endLine" : 8,
+      "symbolFqn" : "Dog",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536737618
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java:2-4",
+      "title" : "Dog#Dog",
+      "content" : "Метод Dog (()).",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java",
+      "startLine" : 2,
+      "endLine" : 4,
+      "symbolFqn" : "Dog#Dog",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536737618
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java:5-7",
+      "title" : "Dog#bringStick",
+      "content" : "Метод bringStick (()). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Dog#bringStick",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536737618
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java:INV:5",
+      "title" : "Ключевые вызовы: bringStick()",
+      "content" : "- `java.io.PrintStream#println(String)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Dog.java",
+      "startLine" : 5,
+      "endLine" : 7,
+      "symbolFqn" : "Dog#bringStick()",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763536737618
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Fish.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Fish.java:1-5",
+      "title" : "Fish",
+      "content" : "Класс Fish.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Fish.java",
+      "startLine" : 1,
+      "endLine" : 5,
+      "symbolFqn" : "Fish",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536750897
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Fish.java:2-4",
+      "title" : "Fish#Fish",
+      "content" : "Метод Fish (()).",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/java-sprint2-hw/src/Fish.java",
+      "startLine" : 2,
+      "endLine" : 4,
+      "symbolFqn" : "Fish#Fish",
+      "tags" : [ ],
+      "lastEditMillis" : 1763536750897
+    } ],
+    "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:38-718",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator",
+      "content" : "Класс ReceiptValidator. Аннотации: @RequiredArgsConstructor.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 38,
+      "endLine" : 718,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:43-48",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSuccessfulResponse",
+      "content" : "Метод validateSuccessfulResponse ((CreateReceiptResponse response, ReceiptsTab expected)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 43,
+      "endLine" : 48,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSuccessfulResponse",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:50-55",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateNonUniqueReceiptResponse",
+      "content" : "Метод validateNonUniqueReceiptResponse ((CreateReceiptResponse actual, CreateReceiptResponse expected)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 50,
+      "endLine" : 55,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateNonUniqueReceiptResponse",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:57-70",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateUnauthorizedError",
+      "content" : "Метод validateUnauthorizedError ((ErrorResponse response)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 57,
+      "endLine" : 70,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateUnauthorizedError",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:72-106",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSuccessfulAdditionToDB",
+      "content" : "Метод validateSuccessfulAdditionToDB ((ReceiptsTab receiptsTab, CreateReceiptRequest request, Long receiptId, FfdVersion ffdVersion)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 72,
+      "endLine" : 106,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSuccessfulAdditionToDB",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:INV:72",
+      "title" : "Ключевые вызовы: validateSuccessfulAdditionToDB(ReceiptsTab, CreateReceiptRequest, Long, FfdVersion)",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateBcsRestapiData(Long, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsMigrationTab receiptsMigrationTab = receiptServiseDao.getReceiptsMigrationDataByReceiptId(receiptId);\n        assertions.assertThat(receiptsMigrationTab.getSessionLogId())\n                .as(\"sessionLogId в БД не соответствует значению в request\")\n                .isEqualTo(request.getBcsRestapiData().getSessionLogId());\n        assertions.assertThat(receiptsMigrationTab.getRequestType())\n                .as(\"requestType в БД не соответствует значению в request\")\n                .isEqualTo(request.getBcsRestapiData().getRequestType());\n        assertions.assertThat(receiptsMigrationTab.getSubmerchantId())\n                .as(\"submerchantId в БД не соответствует значению в request\")\n                .isEqualTo(request.getBcsRestapiData().getSubMerchantId());\n        assertions.assertThat(receiptsMigrationTab.getReceiptAmount())\n…\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 72,
+      "endLine" : 106,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSuccessfulAdditionToDB(ReceiptsTab, CreateReceiptRequest, Long, FfdVersion)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:108-127",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateBcsRestapiData",
+      "content" : "Метод validateBcsRestapiData ((Long receiptId, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 108,
+      "endLine" : 127,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateBcsRestapiData",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:129-206",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceipt",
+      "content" : "Метод validateReceipt ((ReceiptsTab receiptsTab, CreateReceiptRequest request, Long receiptId, FfdVersion ffdVersion, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 129,
+      "endLine" : 206,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceipt",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:INV:129",
+      "title" : "Ключевые вызовы: validateReceipt(ReceiptsTab, CreateReceiptRequest, Long, FfdVersion, SoftAssertions)",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validatePayments(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        Payments paymentsRequest = request.getReceipt().getPayments();\n\n        if (paymentsRequest == null || (paymentsRequest.getCash() == null && paymentsRequest.getElectronic() == null\n                && paymentsRequest.getAdvancePayment() == null && paymentsRequest.getCredit() == null\n                && paymentsRequest.getProvision() == null)) {\n            assertions.assertThat(request.getReceipt().getItems().get(0).getAmount())\n                    .as(\"Если payments = null или значение всех элементов = null, nj Electronic должен \" +\n                            \"заполняться атоматически суммой равной item.amount\")\n                    .isEqualTo(receiptsDataTab.getData().getJSONObject(\"payments\").getInt(\"electronic\"));\n            return;\n…\n```\n- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateAddUserProp(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        AddUserProp addUserProp = request.getReceipt().getAddUserProp();\n        assertions.assertThat(receiptsDataTab.getData().getJSONObject(\"addUserProp\").get(\"name\"))\n                .as(\"Name в запросе не соответствует Name в БД\")\n                .isEqualTo(addUserProp.getName());\n        assertions.assertThat(receiptsDataTab.getData().getJSONObject(\"addUserProp\").get(\"value\"))\n                .as(\"value в запросе не соответствует value в БД\")\n                .isEqualTo(addUserProp.getValue());\n    }\n```\n- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateClientInfo12(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        ClientInfo clientInfo = request.getReceipt().getClientInfo();\n        if (clientInfo.getEmail() != null) {\n            assertions.assertThat(receiptsDataTab.getData().getJSONObject(\"clientInfo\")\n                            .getString(\"email\"))\n                    .as(\"email в запросе не соответствует email в БД\")\n                    .isEqualTo(clientInfo.getEmail());\n        }\n        if (clientInfo.getPhone() != null) {\n            assertions.assertThat(receiptsDataTab.getData().getJSONObject(\"clientInfo\")\n                            .getString(\"phone\"))\n…\n```\n- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validate12ItemData(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        Items items = request.getReceipt().getItems().get(0);\n        if (items.getUserData() != null) {\n            assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                            .getString(\"userData\"))\n                    .as(\"UserData в запросе не соответствует UserData в БД\")\n                    .isEqualTo(items.getUserData());\n        }\n        if (items.getExcise() != null) {\n            assertions.assertThat(BigDecimal.valueOf(receiptsDataTab.getData().getJSONArray(\"items\")\n                            .getJSONObject(0).getDouble(\"excise\")))\n…\n```\n- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSectoralCheckProps(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        SectoralCheckProps sectoralCheckProps = request.getReceipt().getSectoralCheckProps().get(0);\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"sectoralCheckProps\")\n                        .getJSONObject(0).getString(\"federalId\"))\n                .as(\"SectoralCheckProps.FederalId в запросе не соответствует FederalId в БД\")\n                .isEqualTo(sectoralCheckProps.getFederalId());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"sectoralCheckProps\")\n                        .getJSONObject(0).getString(\"date\"))\n                .as(\"SectoralCheckProps.Date в запросе не соответствует Date в БД\")\n                .isEqualTo(sectoralCheckProps.getDate());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"sectoralCheckProps\")\n…\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 129,
+      "endLine" : 206,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceipt(ReceiptsTab, CreateReceiptRequest, Long, FfdVersion, SoftAssertions)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:208-261",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateCommonItemData",
+      "content" : "Метод validateCommonItemData ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 208,
+      "endLine" : 261,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateCommonItemData",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:INV:208",
+      "title" : "Ключевые вызовы: validateCommonItemData(ReceiptsTab, CreateReceiptRequest, SoftAssertions)",
+      "content" : "- `java.lang.Integer#parseInt(String)`\n\n- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateItemAgentData(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        AgentData agentData = request.getReceipt().getItems().get(0).getAgentData();\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getJSONObject(\"agentData\").getString(\"agentSign\"))\n                .as(\"AgentSign в запросе не соответствует AgentSign в БД\")\n                .isEqualTo(agentData.getAgentSign());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getJSONObject(\"agentData\").getString(\"operationName\"))\n                .as(\"OperationName в запросе не соответствует OperationName в БД\")\n                .isEqualTo(agentData.getOperationName());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n…\n```\n- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateItemSupplierInfo(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        SupplierInfo supplierInfo = request.getReceipt().getItems().get(0).getSupplierInfo();\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getJSONObject(\"supplierInfo\")\n                        .getJSONArray(\"phones\").toString()\n                        .replaceAll(\"\\\\D\", \"\"))\n                .as(\"phones в запросе не соответствует phones в БД\")\n                .isEqualTo(supplierInfo.getPhones().toString()\n                        .replaceAll(\"\\\\D\", \"\"));\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getJSONObject(\"supplierInfo\")\n…\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 208,
+      "endLine" : 261,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateCommonItemData(ReceiptsTab, CreateReceiptRequest, SoftAssertions)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:263-334",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validate12ItemData",
+      "content" : "Метод validate12ItemData ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 263,
+      "endLine" : 334,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validate12ItemData",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:INV:263",
+      "title" : "Ключевые вызовы: validate12ItemData(ReceiptsTab, CreateReceiptRequest, SoftAssertions)",
+      "content" : "- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSectoralItemProps(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        SectoralItemProps sectoralItemProps = request.getReceipt().getItems().get(0).getSectoralItemProps().get(0);\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getJSONArray(\"sectoralItemProps\").getJSONObject(0).getString(\"federalId\"))\n                .as(\"SectoralItemProps.FederalId в запросе не соответствует FederalId в БД\")\n                .isEqualTo(sectoralItemProps.getFederalId());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getJSONArray(\"sectoralItemProps\").getJSONObject(0).getString(\"date\"))\n                .as(\"SectoralItemProps.Date в запросе не соответствует Date в БД\")\n                .isEqualTo(sectoralItemProps.getDate());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n…\n```\n- `ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateCommonItemData(ReceiptsTab, CreateReceiptRequest, SoftAssertions)`\n```\n{\n        ReceiptsDataTab receiptsDataTab = receiptServiseDao.getReceiptsDataByReceiptId(receiptsTab.getId()).get(0);\n        Items items = request.getReceipt().getItems().get(0);\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getString(\"name\"))\n                .as(\"Name в запросе не соответствует Name в БД\")\n                .isEqualTo(items.getName());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n                        .getInt(\"price\"))\n                .as(\"Price в запросе не соответствует Price в БД\")\n                .isEqualTo(items.getPrice());\n        assertions.assertThat(receiptsDataTab.getData().getJSONArray(\"items\").getJSONObject(0)\n…\n```",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 263,
+      "endLine" : 334,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validate12ItemData(ReceiptsTab, CreateReceiptRequest, SoftAssertions)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:336-395",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateClientInfo12",
+      "content" : "Метод validateClientInfo12 ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 336,
+      "endLine" : 395,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateClientInfo12",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:397-422",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateClientInfo105",
+      "content" : "Метод validateClientInfo105 ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 397,
+      "endLine" : 422,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateClientInfo105",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:424-462",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptAgentData",
+      "content" : "Метод validateReceiptAgentData ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 424,
+      "endLine" : 462,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptAgentData",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:464-510",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateItemAgentData",
+      "content" : "Метод validateItemAgentData ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 464,
+      "endLine" : 510,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateItemAgentData",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:512-531",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptSupplierInfo",
+      "content" : "Метод validateReceiptSupplierInfo ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 512,
+      "endLine" : 531,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptSupplierInfo",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:533-555",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateItemSupplierInfo",
+      "content" : "Метод validateItemSupplierInfo ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 533,
+      "endLine" : 555,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateItemSupplierInfo",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:557-567",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateAddUserProp",
+      "content" : "Метод validateAddUserProp ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 557,
+      "endLine" : 567,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateAddUserProp",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:569-587",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateOperatingCheckProps",
+      "content" : "Метод validateOperatingCheckProps ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 569,
+      "endLine" : 587,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateOperatingCheckProps",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:589-610",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSectoralCheckProps",
+      "content" : "Метод validateSectoralCheckProps ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 589,
+      "endLine" : 610,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSectoralCheckProps",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:612-633",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSectoralItemProps",
+      "content" : "Метод validateSectoralItemProps ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 612,
+      "endLine" : 633,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSectoralItemProps",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:635-664",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validatePayments",
+      "content" : "Метод validatePayments ((ReceiptsTab receiptsTab, CreateReceiptRequest request, SoftAssertions assertions)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 635,
+      "endLine" : 664,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validatePayments",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:INV:635",
+      "title" : "Ключевые вызовы: validatePayments(ReceiptsTab, CreateReceiptRequest, SoftAssertions)",
+      "content" : "- `java.util.Map#put(K, V)`\n\n- `java.util.Map#forEach(BiConsumer<? super K, ? super V>)`\n",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 635,
+      "endLine" : 664,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validatePayments(ReceiptsTab, CreateReceiptRequest, SoftAssertions)",
+      "tags" : [ "invocation", "inline" ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:666-671",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSuccessfulGetReceiptsResponse",
+      "content" : "Метод validateSuccessfulGetReceiptsResponse ((GetReceiptsResponse getReceipts, int amount)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 666,
+      "endLine" : 671,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateSuccessfulGetReceiptsResponse",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:673-682",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptAfterPatchNeedFiscal",
+      "content" : "Метод validateReceiptAfterPatchNeedFiscal ((Long receiptId, boolean needFiscal)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 673,
+      "endLine" : 682,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptAfterPatchNeedFiscal",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:684-690",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateChangedState",
+      "content" : "Метод validateChangedState ((Long receiptId, State state)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 684,
+      "endLine" : 690,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateChangedState",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:692-700",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptFromFpRs",
+      "content" : "Метод validateReceiptFromFpRs ((String key, String value)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 692,
+      "endLine" : 700,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateReceiptFromFpRs",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:702-707",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateEmailChanged",
+      "content" : "Метод validateEmailChanged ((ReceiptsDataTab receiptsDataTab, String email)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 702,
+      "endLine" : 707,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateEmailChanged",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    }, {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java:709-717",
+      "title" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateCorrectionInfo",
+      "content" : "Метод validateCorrectionInfo ((GetReceiptsResponse getReceipts, CreateReceiptRequest request)). Возвращает void.",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/java/ru/tinkoff/qa/fp/receipt/validation/ReceiptValidator.java",
+      "startLine" : 709,
+      "endLine" : 717,
+      "symbolFqn" : "ru.tinkoff.qa.fp.receipt.validation.ReceiptValidator#validateCorrectionInfo",
+      "tags" : [ ],
+      "lastEditMillis" : 1763623239409
+    } ],
+    "/Users/d.v.generalov/eacq-fp-receipt-service-perf/.gradle/8.7/dependencies-accessors/gc.properties" : [ ],
+    "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/resources/run.properties" : [ {
+      "id" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/resources/run.properties:2-2",
+      "title" : "prop:environment",
+      "content" : "pre",
+      "filePath" : "/Users/d.v.generalov/IdeaProjects/untitled/eacq-fp-receipt-service-qa/src/main/resources/run.properties",
+      "startLine" : 2,
+      "endLine" : 2,
+      "symbolFqn" : null,
+      "tags" : [ "prop:environment", "properties", "config" ],
+      "lastEditMillis" : 1763537523547
     } ]
   }
 }

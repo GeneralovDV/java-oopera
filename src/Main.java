@@ -1,4 +1,4 @@
-import constants.Gender;
+import staff.Gender;
 import show.Ballet;
 import show.MusicalShow;
 import show.Opera;
@@ -22,18 +22,13 @@ public class Main {
         Director choreographer = new Director("Ольга", "Федоровна", Gender.FEMALE, 5);
         Director musicAuthor = new Director("Василий", "Петров", Gender.MALE, 3);
 
-        ArrayList<Actor> listOfActorsForShow = new ArrayList<>();
-        ArrayList<Actor> listOfActorsForMusicalShow = new ArrayList<>();
-        ArrayList<Actor> listOfActorsForBallet = new ArrayList<>();
-        ArrayList<Actor> listOfActorsForOpera = new ArrayList<>();
-
-        Show show = new Show("Мой первый спектакль", 120, director1.getName(), listOfActorsForShow);
-        MusicalShow musicalShow = new MusicalShow("Мой второй спектакль", 123, director2.getName(),
-                listOfActorsForMusicalShow, musicAuthor.getName(), "Текст либретто");
-        Ballet ballet = new Ballet("Мой третий спектакль", 123, director2.getName(),
-                listOfActorsForBallet, musicAuthor.getName(), "Текст либретто", choreographer.getName());
-        Opera opera = new Opera("Мой четвертый спектакль", 123, director1.getName(),
-                listOfActorsForOpera, musicAuthor.getName(), "Текст либретто", 20);
+        Show show = new Show("Мой первый спектакль", 120, director1);
+        MusicalShow musicalShow = new MusicalShow("Мой второй спектакль", 123, director2, musicAuthor,
+                "Текст либретто");
+        Ballet ballet = new Ballet("Мой третий спектакль", 123, director2, musicAuthor,
+                "Текст либретто", choreographer);
+        Opera opera = new Opera("Мой четвертый спектакль", 123, director1,
+                musicAuthor, "Текст либретто", 20);
 
         show.addNewActor(actor1);
         show.addNewActor(actor2);
@@ -59,6 +54,6 @@ public class Main {
 
         opera.printLibretto();
 
-        musicalShow.replaceActor(actor3, actor1);
+        musicalShow.replaceActor(actor3, actor1.getSurname());
     }
 }

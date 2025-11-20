@@ -1,7 +1,5 @@
 package staff;
 
-import constants.Gender;
-
 public class Director extends Person {
     private int numberOfShows;
 
@@ -13,8 +11,8 @@ public class Director extends Person {
     @Override
     public String toString() {
         return "Режиссер {" +
-                "Имя = '" + super.getName() + '\'' +
-                ", Фамилия = '" + super.getSurname() + '\'' +
+                "Имя = '" + super.name + '\'' +
+                ", Фамилия = '" + super.surname + '\'' +
                 ", Пол = " + super.getGender().getDisplayName() +
                 ", (Количество спектаклей = " + numberOfShows + ")" +
                 '}';

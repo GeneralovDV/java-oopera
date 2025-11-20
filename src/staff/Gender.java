@@ -1,4 +1,4 @@
-package constants;
+package staff;
 
 public enum Gender {
     MALE("Мужчина"),

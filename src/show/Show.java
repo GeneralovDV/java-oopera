@@ -6,31 +6,19 @@ import staff.Person;
 import java.util.ArrayList;
 
 public class Show {
-    private String title;
-    private int duration;
-    private String director;
-    private ArrayList<Actor> listOfActors;
+    protected String title;
+    protected int duration;
+    protected Person director;
+    protected ArrayList<Actor> listOfActors = new ArrayList<>();
 
-    public Show(String title, int duration, String director, ArrayList<Actor> listOfActors) {
+    public Show(String title, int duration, Person director) {
         this.title = title;
         this.duration = duration;
         this.director = director;
-        this.listOfActors = listOfActors;
-    }
-
-    private boolean isActorExist(Actor newActor) {
-        for (Actor actor : listOfActors) {
-            if (actor.getName().equals(newActor.getName())
-                    && actor.getSurname().equals(newActor.getSurname())
-                    && actor.getHeight() == newActor.getHeight()) {
-                return true;
-            }
-        }
-        return false;
     }
 
     public void addNewActor(Actor newActor) {
-        if (isActorExist(newActor)) {
+        if (listOfActors.contains(newActor)) {
             System.out.println("Актер " + newActor.getName() + " " + newActor.getSurname() + " уже существует!");
             return;
         }
@@ -41,21 +29,23 @@ public class Show {
     public void printListOfActors() {
         System.out.println("Список актеров:");
         for (Actor actor : listOfActors) {
-            Person.printName(actor);
+            System.out.println(actor);;
         }
     }
 
-    public void replaceActor(Actor newActor, Actor replaceableActor) {
-        if (!isActorExist(newActor)) {
-            System.out.println("Актер с именем " + newActor.getName() + " " +
-                    newActor.getSurname() + " в спектакле не участвует!");
-            return;
+    public void replaceActor(Actor newActor, String surnameReplaceableActor) {
+        boolean replaced = false;
+
+        for (int i = 0; i < listOfActors.size(); i++) {
+            if (surnameReplaceableActor.equals(listOfActors.get(i).getSurname())) {
+                listOfActors.set(i, newActor);
+                replaced = true;
+                System.out.println("Актёр с фамилией " + surnameReplaceableActor + " заменён на " +
+                        newActor.getName() + " " + newActor.getSurname() + ".");
+            }
         }
-        int index = listOfActors.indexOf(replaceableActor);
-        if (index != -1) {
-            listOfActors.set(index, newActor);
-            System.out.println("Актер " + replaceableActor.getName() + " " + replaceableActor.getSurname() +
-                    " успешно заменен на " + newActor.getName() + " " + newActor.getSurname());
+        if (!replaced) {
+            System.out.println("Предупреждение: актёр с фамилией " + surnameReplaceableActor + " не найден.");
         }
     }
 }

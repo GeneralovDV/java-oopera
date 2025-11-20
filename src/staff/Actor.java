@@ -1,7 +1,5 @@
 package staff;
 
-import constants.Gender;
-
 import java.util.Objects;
 
 public class Actor extends Person {
@@ -19,8 +17,8 @@ public class Actor extends Person {
     @Override
     public String toString() {
         return "Актер {" +
-                "Имя ='" + super.getName() + '\'' +
-                ", Фамилия ='" + super.getSurname() + '\'' +
+                "Имя ='" + super.name + '\'' +
+                ", Фамилия ='" + super.surname + '\'' +
                 ", Пол =" + super.getGender().getDisplayName() +
                 ", (Рост =" + height + ")" +
                 '}';

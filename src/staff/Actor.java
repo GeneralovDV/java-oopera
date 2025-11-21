@@ -3,15 +3,11 @@ package staff;
 import java.util.Objects;
 
 public class Actor extends Person {
-    private int height;
+    protected int height;
 
     public Actor(String name, String surname, Gender gender, int height) {
         super(name, surname, gender);
         this.height = height;
-    }
-
-    public int getHeight() {
-        return height;
     }
 
     @Override
@@ -19,7 +15,6 @@ public class Actor extends Person {
         return "Актер {" +
                 "Имя ='" + super.name + '\'' +
                 ", Фамилия ='" + super.surname + '\'' +
-                ", Пол =" + super.getGender().getDisplayName() +
                 ", (Рост =" + height + ")" +
                 '}';
     }

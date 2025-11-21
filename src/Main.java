@@ -50,7 +50,7 @@ public class Main {
         ballet.printListOfActors();
         opera.printListOfActors();
 
-        Director.printName(director1);
+        Show.printName(director1);
 
         opera.printLibretto();
 

@@ -13,7 +13,6 @@ public class Director extends Person {
         return "Режиссер {" +
                 "Имя = '" + super.name + '\'' +
                 ", Фамилия = '" + super.surname + '\'' +
-                ", Пол = " + super.getGender().getDisplayName() +
                 ", (Количество спектаклей = " + numberOfShows + ")" +
                 '}';
     }

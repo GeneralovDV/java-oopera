@@ -21,12 +21,12 @@ public class Person {
         return surname;
     }
 
-    public Gender getGender() {
-        return gender;
-    }
-
-    public static void printName(Person person) {
-        System.out.println(person);
+    @Override
+    public String toString() {
+        return "Person{" +
+                "Имя ='" + name + '\'' +
+                ", Фамилия ='" + surname + '\'' +
+                '}';
     }
 
     @Override

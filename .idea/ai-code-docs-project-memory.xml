@@ -162,7 +162,7 @@
         <option name="kind" value="ENTITY_SUMMARY" />
         <option name="key" value="entity:staff.Actor" />
         <option name="title" value="Auto summary: staff.Actor" />
-        <option name="text" value="```&#10;package staff;&#10;&#10;import java.util.Objects;&#10;&#10;public class Actor extends Person {&#10;    private int height;&#10;&#10;    public Actor(String name, String surname, Gender gender, int height) {&#10;        super(name, surname, gender);&#10;        this.height = height;&#10;    }&#10;&#10;    public int getHeight() {&#10;        return height;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;Актер {&quot; +&#10;                &quot;Имя ='&quot; + super.name + '\'' +&#10;                &quot;, Фамилия ='&quot; + super.surname + '\'' +&#10;                &quot;, Пол =&quot; + super.getGender().getDisplayName() +&#10;                &quot;, (Рост =&quot; + height + &quot;)&quot; +&#10;                '}';&#10;    }&#10;&#10;    @Override&#10;    public boolean equals(Object o) {&#10;        if (o == null || getClass() != o.getClass()) return false;&#10;        if (!super.equals(o)) return false;&#10;        Actor actor = (Actor) o;&#10;        return height == actor.height;&#10;    }&#10;&#10;    @Override&#10;    public int hashCode() {&#10;        return Objects.hash(super.hashCode(), height);&#10;    }&#10;}&#10;```" />
+        <option name="text" value="```&#10;package staff;&#10;&#10;import java.util.Objects;&#10;&#10;public class Actor extends Person {&#10;    protected int height;&#10;&#10;    public Actor(String name, String surname, Gender gender, int height) {&#10;        super(name, surname, gender);&#10;        this.height = height;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;Актер {&quot; +&#10;                &quot;Имя ='&quot; + super.name + '\'' +&#10;                &quot;, Фамилия ='&quot; + super.surname + '\'' +&#10;                &quot;, (Рост =&quot; + height + &quot;)&quot; +&#10;                '}';&#10;    }&#10;&#10;    @Override&#10;    public boolean equals(Object o) {&#10;        if (o == null || getClass() != o.getClass()) return false;&#10;        if (!super.equals(o)) return false;&#10;        Actor actor = (Actor) o;&#10;        return height == actor.height;&#10;    }&#10;&#10;    @Override&#10;    public int hashCode() {&#10;        return Objects.hash(super.hashCode(), height);&#10;    }&#10;}&#10;```" />
         <option name="slug" value="entity:staff.Actor" />
         <option name="meta">
           <map>
@@ -170,8 +170,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763558593284" />
-        <option name="updatedAt" value="1763558593284" />
+        <option name="createdAt" value="1763710432299" />
+        <option name="updatedAt" value="1763710432299" />
       </Item>
       <Item>
         <option name="id" value="v-eN84xORGg0jQkNn0XwA3GcLQY" />
@@ -181,7 +181,7 @@
         <option name="kind" value="ENTITY_SUMMARY" />
         <option name="key" value="entity:staff.Person" />
         <option name="title" value="Auto summary: staff.Person" />
-        <option name="text" value="```&#10;package staff;&#10;&#10;import java.util.Objects;&#10;&#10;public class Person {&#10;    protected String name;&#10;    protected String surname;&#10;    protected Gender gender;&#10;&#10;    public Person(String name, String surname, Gender gender) {&#10;        this.name = name;&#10;        this.surname = surname;&#10;        this.gender = gender;&#10;    }&#10;&#10;    public String getName() {&#10;        return name;&#10;    }&#10;&#10;    public String getSurname() {&#10;        return surname;&#10;    }&#10;&#10;    public Gender getGender() {&#10;        return gender;&#10;    }&#10;&#10;    public static void printName(Person person) {&#10;        System.out.println(person);&#10;    }&#10;&#10;    @Override&#10;    public boolean equals(Object o) {&#10;        if (o == null || getClass() != o.getClass()) return false;&#10;        Person person = (Person) o;&#10;        return Objects.equals(name, person.name) &amp;&amp; Objects.equals(surname, person.surname);&#10;    }&#10;&#10;    @Override&#10;    public int hashCode() {&#10;```" />
+        <option name="text" value="```&#10;package staff;&#10;&#10;import java.util.Objects;&#10;&#10;public class Person {&#10;    protected String name;&#10;    protected String surname;&#10;    protected Gender gender;&#10;&#10;    public Person(String name, String surname, Gender gender) {&#10;        this.name = name;&#10;        this.surname = surname;&#10;        this.gender = gender;&#10;    }&#10;&#10;    public String getName() {&#10;        return name;&#10;    }&#10;&#10;    public String getSurname() {&#10;        return surname;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;Person{&quot; +&#10;                &quot;Имя ='&quot; + name + '\'' +&#10;                &quot;, Фамилия ='&quot; + surname + '\'' +&#10;                '}';&#10;    }&#10;&#10;    @Override&#10;    public boolean equals(Object o) {&#10;        if (o == null || getClass() != o.getClass()) return false;&#10;        Person person = (Person) o;&#10;        return Objects.equals(name, person.name) &amp;&amp; Objects.equals(surname, person.surname);&#10;    }&#10;&#10;    @Override&#10;    public int hashCode() {&#10;```" />
         <option name="slug" value="entity:staff.Person" />
         <option name="meta">
           <map>
@@ -189,8 +189,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763559012854" />
-        <option name="updatedAt" value="1763559012854" />
+        <option name="createdAt" value="1763710455038" />
+        <option name="updatedAt" value="1763710455038" />
       </Item>
       <Item>
         <option name="id" value="W0cMjsWpPWOlIt1MVK2JbEIFwhA" />
@@ -200,7 +200,7 @@
         <option name="kind" value="ENTITY_SUMMARY" />
         <option name="key" value="entity:staff.Director" />
         <option name="title" value="Auto summary: staff.Director" />
-        <option name="text" value="```&#10;package staff;&#10;&#10;public class Director extends Person {&#10;    private int numberOfShows;&#10;&#10;    public Director(String name, String surname, Gender gender, int numberOfShows) {&#10;        super(name, surname, gender);&#10;        this.numberOfShows = numberOfShows;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;Режиссер {&quot; +&#10;                &quot;Имя = '&quot; + super.name + '\'' +&#10;                &quot;, Фамилия = '&quot; + super.surname + '\'' +&#10;                &quot;, Пол = &quot; + super.getGender().getDisplayName() +&#10;                &quot;, (Количество спектаклей = &quot; + numberOfShows + &quot;)&quot; +&#10;                '}';&#10;    }&#10;}&#10;```" />
+        <option name="text" value="```&#10;package staff;&#10;&#10;public class Director extends Person {&#10;    private int numberOfShows;&#10;&#10;    public Director(String name, String surname, Gender gender, int numberOfShows) {&#10;        super(name, surname, gender);&#10;        this.numberOfShows = numberOfShows;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;Режиссер {&quot; +&#10;                &quot;Имя = '&quot; + super.name + '\'' +&#10;                &quot;, Фамилия = '&quot; + super.surname + '\'' +&#10;                &quot;, (Количество спектаклей = &quot; + numberOfShows + &quot;)&quot; +&#10;                '}';&#10;    }&#10;}&#10;```" />
         <option name="slug" value="entity:staff.Director" />
         <option name="meta">
           <map>
@@ -208,8 +208,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763558499716" />
-        <option name="updatedAt" value="1763558499716" />
+        <option name="createdAt" value="1763710444649" />
+        <option name="updatedAt" value="1763710444649" />
       </Item>
       <Item>
         <option name="id" value="GK-9-0K9X_Wza6uqatLzJsPYW74" />
@@ -238,7 +238,7 @@
         <option name="kind" value="ENTITY_SUMMARY" />
         <option name="key" value="entity:show.Show" />
         <option name="title" value="Auto summary: show.Show" />
-        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Actor;&#10;import staff.Person;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Show {&#10;    protected String title;&#10;    protected int duration;&#10;    protected Person director;&#10;    protected ArrayList&lt;Actor&gt; listOfActors = new ArrayList&lt;&gt;();&#10;&#10;    public Show(String title, int duration, Person director) {&#10;        this.title = title;&#10;        this.duration = duration;&#10;        this.director = director;&#10;    }&#10;&#10;    public void addNewActor(Actor newActor) {&#10;        if (listOfActors.contains(newActor)) {&#10;            System.out.println(&quot;Актер &quot; + newActor.getName() + &quot; &quot; + newActor.getSurname() + &quot; уже существует!&quot;);&#10;            return;&#10;        }&#10;        listOfActors.add(newActor);&#10;        System.out.println(&quot;Актер &quot; + newActor.getName() + &quot; &quot; + newActor.getSurname() + &quot; успешно добавлен.&quot;);&#10;    }&#10;&#10;    public void printListOfActors() {&#10;        System.out.println(&quot;Список актеров:&quot;);&#10;        for (Actor actor : listOfActors) {&#10;            System.out.println(actor);;&#10;        }&#10;    }&#10;&#10;    public void replaceActor(Actor newActor, String surnameReplaceableActor) {&#10;        boolean replaced = false;&#10;&#10;        for (int i = 0; i &lt; listOfActors.size(); i++) {&#10;            if (surnameReplaceableActor.equals(listOfActors.get(i).getSurname())) {&#10;```" />
+        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Actor;&#10;import staff.Director;&#10;import staff.Person;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Show {&#10;    protected String title;&#10;    protected int duration;&#10;    protected Director director;&#10;    protected ArrayList&lt;Actor&gt; listOfActors = new ArrayList&lt;&gt;();&#10;&#10;    public Show(String title, int duration, Director director) {&#10;        this.title = title;&#10;        this.duration = duration;&#10;        this.director = director;&#10;    }&#10;&#10;    public void addNewActor(Actor newActor) {&#10;        if (listOfActors.contains(newActor)) {&#10;            System.out.println(&quot;Актер &quot; + newActor.getName() + &quot; &quot; + newActor.getSurname() + &quot; уже существует!&quot;);&#10;            return;&#10;        }&#10;        listOfActors.add(newActor);&#10;        System.out.println(&quot;Актер &quot; + newActor.getName() + &quot; &quot; + newActor.getSurname() + &quot; успешно добавлен.&quot;);&#10;    }&#10;&#10;    public void printListOfActors() {&#10;        System.out.println(&quot;Список актеров:&quot;);&#10;        for (Actor actor : listOfActors) {&#10;            System.out.println(actor);;&#10;        }&#10;    }&#10;&#10;    public void replaceActor(Actor newActor, String surnameReplaceableActor) {&#10;        int matchIndex = -1;&#10;        int matches = 0;&#10;&#10;```" />
         <option name="slug" value="entity:show.Show" />
         <option name="meta">
           <map>
@@ -246,8 +246,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763559024576" />
-        <option name="updatedAt" value="1763559024576" />
+        <option name="createdAt" value="1763711257029" />
+        <option name="updatedAt" value="1763711257029" />
       </Item>
       <Item>
         <option name="id" value="3vlb26Fsusx2QukqPPnsIIb7RRA" />
@@ -257,7 +257,7 @@
         <option name="kind" value="ENTITY_SUMMARY" />
         <option name="key" value="entity:show.Opera" />
         <option name="title" value="Auto summary: show.Opera" />
-        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Actor;&#10;import staff.Person;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Opera extends MusicalShow {&#10;    private int choirSize;&#10;&#10;    public Opera(String title, int duration, Person director, Person musicAuthor,&#10;                 String librettoText, int choirSize) {&#10;        super(title, duration, director, musicAuthor, librettoText);&#10;        this.choirSize = choirSize;&#10;    }&#10;}&#10;```" />
+        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Director;&#10;import staff.Person;&#10;&#10;public class Opera extends MusicalShow {&#10;    protected int choirSize;&#10;&#10;    public Opera(String title, int duration, Director director, Person musicAuthor,&#10;                 String librettoText, int choirSize) {&#10;        super(title, duration, director, musicAuthor, librettoText);&#10;        this.choirSize = choirSize;&#10;    }&#10;}&#10;```" />
         <option name="slug" value="entity:show.Opera" />
         <option name="meta">
           <map>
@@ -265,8 +265,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763566408854" />
-        <option name="updatedAt" value="1763566408854" />
+        <option name="createdAt" value="1763710498488" />
+        <option name="updatedAt" value="1763710498488" />
       </Item>
       <Item>
         <option name="id" value="FiK99rJ7ofyPk8Hs0H5ghOSF22w" />
@@ -276,7 +276,7 @@
         <option name="kind" value="ENTITY_SUMMARY" />
         <option name="key" value="entity:show.MusicalShow" />
         <option name="title" value="Auto summary: show.MusicalShow" />
-        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Actor;&#10;import staff.Person;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class MusicalShow extends Show {&#10;    protected Person musicAuthor;&#10;    protected String librettoText;&#10;&#10;    public MusicalShow(String title, int duration, Person director, Person musicAuthor, String librettoText) {&#10;        super(title, duration, director);&#10;        this.musicAuthor = musicAuthor;&#10;        this.librettoText = librettoText;&#10;    }&#10;&#10;    public void printLibretto() {&#10;        System.out.println(this);&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return&#10;                &quot;Либретто = '&quot; + librettoText + '\'';&#10;    }&#10;}&#10;```" />
+        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Director;&#10;import staff.Person;&#10;&#10;public class MusicalShow extends Show {&#10;    protected Person musicAuthor;&#10;    protected String librettoText;&#10;&#10;    public MusicalShow(String title, int duration, Director director, Person musicAuthor, String librettoText) {&#10;        super(title, duration, director);&#10;        this.musicAuthor = musicAuthor;&#10;        this.librettoText = librettoText;&#10;    }&#10;&#10;    public void printLibretto() {&#10;        System.out.println(this);&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return&#10;                &quot;Либретто = '&quot; + librettoText + '\'';&#10;    }&#10;}&#10;```" />
         <option name="slug" value="entity:show.MusicalShow" />
         <option name="meta">
           <map>
@@ -284,8 +284,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763558668621" />
-        <option name="updatedAt" value="1763558668621" />
+        <option name="createdAt" value="1763710463318" />
+        <option name="updatedAt" value="1763710463318" />
       </Item>
       <Item>
         <option name="id" value="D9BIoOoqmvv0E7Hc_9lNpscsATk" />
@@ -295,7 +295,7 @@
         <option name="kind" value="ENTITY_SUMMARY" />
         <option name="key" value="entity:show.Ballet" />
         <option name="title" value="Auto summary: show.Ballet" />
-        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Actor;&#10;import staff.Person;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Ballet extends MusicalShow {&#10;    private Person choreographer;&#10;&#10;    public Ballet(String title, int duration, Person director, Person musicAuthor,&#10;                  String librettoText, Person choreographer) {&#10;        super(title, duration, director, musicAuthor, librettoText);&#10;        this.choreographer = choreographer;&#10;    }&#10;}&#10;```" />
+        <option name="text" value="```&#10;package show;&#10;&#10;import staff.Director;&#10;import staff.Person;&#10;&#10;public class Ballet extends MusicalShow {&#10;    protected Person choreographer;&#10;&#10;    public Ballet(String title, int duration, Director director, Person musicAuthor,&#10;                  String librettoText, Person choreographer) {&#10;        super(title, duration, director, musicAuthor, librettoText);&#10;        this.choreographer = choreographer;&#10;    }&#10;}&#10;```" />
         <option name="slug" value="entity:show.Ballet" />
         <option name="meta">
           <map>
@@ -303,8 +303,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763558813064" />
-        <option name="updatedAt" value="1763558813064" />
+        <option name="createdAt" value="1763710482065" />
+        <option name="updatedAt" value="1763710482065" />
       </Item>
       <Item>
         <option name="id" value="ob1ngww_AHRXVInjdRtApPAo5iY" />
@@ -322,8 +322,8 @@
             <entry key="tags" value="entity,summary" />
           </map>
         </option>
-        <option name="createdAt" value="1763566445380" />
-        <option name="updatedAt" value="1763566445380" />
+        <option name="createdAt" value="1763707106481" />
+        <option name="updatedAt" value="1763707106481" />
       </Item>
       <Item>
         <option name="id" value="gk5JxiAq1SV-jc_xDDcc6EBNo9Q" />
